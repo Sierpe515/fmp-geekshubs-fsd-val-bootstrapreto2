@@ -1,0 +1,41 @@
+.container {
+    height: 750px;
+}
+
+.cosa1 {
+    height: 100%;
+}
+
+.box1 {
+    height: 10%;
+    background-color: gainsboro;
+    padding-top: 20px;
+    color: rgb(39, 131, 252);
+    border: 1px solid gray;
+}
+
+.box2 {
+    height: 60%;
+    background-color: gainsboro;
+    padding-top: 20px;
+    border: 1px solid gray;
+}
+
+.inputs {
+    width: 90%;
+}
+
+.icon1 {
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(39, 131, 252);
+}
+
+.icon2 {
+    width: 30%;
+}
+
+.inputa {
+    width: 70%;
+}
